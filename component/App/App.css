@@ -1,0 +1,16 @@
+
+.todo{
+  width: 795px;
+  margin: 0px auto;
+}
+.todoCard{
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.todoList{
+  
+  width: 795px;
+  margin: 0px auto;
+  margin-top: -600px;
+}
+

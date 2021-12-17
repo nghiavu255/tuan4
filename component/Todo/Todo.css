@@ -1,0 +1,13 @@
+.listItem {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.listItem button {
+  margin-right: 13px;
+}
+
+.done {
+  margin-right: 19px;
+}
